@@ -8,6 +8,8 @@ public class TestScript : MonoBehaviour {
 	
 	}
 	
+	// Remote added comment.
+	
 	// Update is called once per frame
 	void Update () {
 	
